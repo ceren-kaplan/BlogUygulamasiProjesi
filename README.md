@@ -2,7 +2,7 @@
 
 React ve GraphQL teknolojileriyle temel seviyede bir blog uygulaması geliştirilmiştir. Veri tabanı olarak MongoDB kullanılmıştır. Geliştirilen sistemde makale ekleme, silme ve listeleme işlemleri gerçekleştirilebilmektedir.
 
-### Kullanılan Teknolojiler
+### Kullanılan Teknolojiler:
 React.js
 
 GraphQL
