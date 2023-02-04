@@ -3,7 +3,7 @@ const gql = require("graphql-tag");
 const mongoose = require("mongoose");
 
 const DB_URI =
-  "mongodb+srv://usrcrn:1mdb30a4@blogcluster.jxghwdj.mongodb.net/blogDB?retryWrites=true&w=majority";
+  "mongodb+srv://<username>:<password>@<cluster-name>.mongodb.net/<db-name>?retryWrites=true&w=majority";
 const MakaleModel = require("./models/MakaleModel");
 
 const typeDefs = gql`
