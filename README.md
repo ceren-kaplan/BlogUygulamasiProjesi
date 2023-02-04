@@ -19,6 +19,17 @@ MongoDB
 #### Client tarafı için:
 ![image](https://user-images.githubusercontent.com/61666423/216785052-615a2de6-a3b9-41fc-8fd0-f16d7b3b71f4.png)
 
+### npm Komutları:
+![image](https://user-images.githubusercontent.com/61666423/216785742-2f81c2f8-56b9-466b-bf72-e5f6f1d65830.png)
+
+![image](https://user-images.githubusercontent.com/61666423/216785777-3dcf4c66-749d-48b4-8612-37baab0075eb.png)
+
+![image](https://user-images.githubusercontent.com/61666423/216785802-c641bccb-2be7-400b-b648-8b5d7aca8926.png)
+
+![image](https://user-images.githubusercontent.com/61666423/216785882-7b6adb96-c4d9-4212-b94c-25b639afbc4e.png)
+
+
+
 
 
 
