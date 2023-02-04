@@ -11,6 +11,8 @@ Apollo Server
 
 MongoDB 
 
+
+##### Not: BlogUygulamasiProjesi/Blog_Uygulamasi/server/server.js const DB_URI kısmındaki yerler oluşturulan veri tabanına göre düzenlenmelidir.
 ### Kodların Çalıştırılması:
 #### Server tarafı için:
 ![image](https://user-images.githubusercontent.com/61666423/216785024-253d9f36-2b5f-424a-a8e5-b79de7240c77.png)
